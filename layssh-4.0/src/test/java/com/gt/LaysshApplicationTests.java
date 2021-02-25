@@ -19,6 +19,7 @@ public class LaysshApplicationTests {
         logger.debug("debug");
         logger.error("error");
         logger.warn("warn");
+        //logger();
     }
 
 }
